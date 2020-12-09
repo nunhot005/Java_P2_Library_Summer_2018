@@ -6,4 +6,4 @@ This is an individual project.
 To learn some of the basic concepts of object oriented programming.
 
 ## Introduction
-This project is a Library System that support e-learning and book borrowing.
+This project is a Library System that supports e-learning and book borrowing.
