@@ -2,8 +2,8 @@
 Summer 2018 Java Project 2: Library System
 This is an individual project.
 
-##Learning Objectives
+## Learning Objectives
 To learn some of the basic concepts of object oriented programming.
 
-##Introduction
+## Introduction
 This project is a Library System that support e-learning and book borrowing.
